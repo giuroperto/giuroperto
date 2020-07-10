@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Giulia 👋
+
+:computer: Full-Stack Web Developer 
+<!--:mortar_board: Business - FGV EAESP<br/> & Msc International Events and Festival Management - Edinburgh Napier University<br/>-->
+:city_sunset: São Paulo, Brazil
+
 
 <!--
 **giuroperto/giuroperto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
