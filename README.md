@@ -4,8 +4,11 @@
 <!--:mortar_board: Business - FGV EAESP<br/> & Msc International Events and Festival Management - Edinburgh Napier University<br/>-->
 :city_sunset: São Paulo, Brazil
 
+| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=giuroperto&count_private=true&theme=radical&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuroperto&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=giuroperto)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
+
+
 **giuroperto/giuroperto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
