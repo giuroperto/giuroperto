@@ -1,6 +1,6 @@
 ### Hi there, I'm Giulia :brazil: :it: 
 
-:iphone: Android & :computer: Full-Stack Web Developer (MERN stack)<br/>
+:computer: Android & Full-Stack Web Developer (MERN stack)<br/>
 :mortar_board: Business - FGV EAESP & Msc International Events and Festival Management - Edinburgh Napier University<br/>
 :city_sunset: São Paulo, Brazil<br/>
 <br/>
