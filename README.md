@@ -5,8 +5,8 @@
 :city_sunset: São Paulo, Brazil<br/>
 <br/>
 :construction: I’m currently learning: Angular, Vue.js and Kotlin<br/>
-⚡ Fun fact: I've been a vegetarian 🌱 for over 10 years and I love to play games :video_game: (Age of Empires II, Poketibia, Diablo, World of Warcraft, Red Dead Redemption, Among Us, Overcooked)
-🌎 Places I've lived: Dunedin (New Zealand 🇳🇿), Tirana (Albania 🇦🇱) and Edinburgh (Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿󠁧󠁢)
+⚡ Fun fact: I've been a vegetarian 🌱 for over 10 years and I love to play games :video_game: (Age of Empires II, Poketibia, Diablo, World of Warcraft, Red Dead Redemption, Among Us, Overcooked)<br/>
+🌎 Places I've lived: Dunedin (New Zealand 🇳🇿), Tirana (Albania 🇦🇱) and Edinburgh (Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿󠁧󠁢)<br/>
 😄 Pronouns: she/her
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=giuroperto&count_private=true&theme=radical&show_icons=true)
