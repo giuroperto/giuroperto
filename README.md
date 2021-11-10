@@ -6,7 +6,7 @@
 :mortar_board: Business - FGV EAESP & Msc International Events and Festival Management - Edinburgh Napier University<br/>
 :city_sunset: São Paulo, Brazil<br/>
 <br/>
-:construction: I’m currently learning: Angular, Vue.js and Kotlin<br/>
+:construction: I’m currently learning: Java, Kotlin and Python<br/>
 ⚡ Fun fact: I've been a vegetarian 🌱 for over 10 years and I love to play games :video_game: (Age of Empires II, Poketibia, Diablo, World of Warcraft, Red Dead Redemption, Among Us, Overcooked)<br/>
 🌎 Places I've lived: Dunedin (New Zealand 🇳🇿), Tirana (Albania 🇦🇱) and Edinburgh (Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿󠁧󠁢)<br/>
 😄 Pronouns: she/her
