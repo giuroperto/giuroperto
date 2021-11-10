@@ -1,3 +1,5 @@
+![CodeWars](https://www.codewars.com/users/giurop/badges/large)
+
 ### Hi there, I'm Giulia :brazil: :it: 
 
 :computer: Android Kotlin & Full-Stack Web Developer (MERN stack)<br/>
