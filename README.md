@@ -1,7 +1,7 @@
 ## Hi there, I'm Giulia :brazil: :it:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giuliaroperto/)](https://www.linkedin.com/in/giuliaroperto/) [![HackerRank](https://img.shields.io/badge/-Hackerrank-success?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/giu_roperto)](https://www.hackerrank.com/giu_roperto) 
 
-:computer: Android Kotlin & Full-Stack Web Developer (MERN stack)<br/>
+:computer: Android Java/Kotlin & Full-Stack Web Developer (MERN stack)<br/>
 :mortar_board: Business - FGV EAESP & Msc International Events and Festival Management - Edinburgh Napier University<br/>
 :city_sunset: São Paulo, Brazil<br/>
 <br/>
