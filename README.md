@@ -10,8 +10,9 @@
 🌎 Places I've lived: Dunedin (New Zealand 🇳🇿), Tirana (Albania 🇦🇱) and Edinburgh (Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿󠁧󠁢)<br/>
 😄 Pronouns: she/her
 
-## CodeWars
 ![CodeWars](https://www.codewars.com/users/giurop/badges/large)
+
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/grop.png)
 
 ## My Stats
 
